@@ -10,23 +10,23 @@ Save game compatible.
 
 Ship types made immune from attack:
 
-Schooner
-Clipper
-Cargo Ship
-Creative Reefer
-World Class Reefer
-Creative Eastern
-Great Eastern
-Extravaganza Steamer
-Salvager
-Oil Tanker
-Colibri
-Harpy
-Dtundtuncan
-Pegasus
-Alicanto
-Atotolin
-Manticore
-Hermes
-Quetzalcoatl
-Zephyr
+* Schooner
+* Clipper
+* Cargo Ship
+* Creative Reefer
+* World Class Reefer
+* Creative Eastern
+* Great Eastern
+* Extravaganza Steamer
+* Salvager
+* Oil Tanker
+* Colibri
+* Harpy
+* Dtundtuncan
+* Pegasus
+* Alicanto
+* Atotolin
+* Manticore
+* Hermes
+* Quetzalcoatl
+* Zephyr
