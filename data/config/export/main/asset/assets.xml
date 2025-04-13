@@ -1,0 +1,8 @@
+<ModOps>
+  <ModOp Type="merge" GUID="100438,100441,1010062,15835,132404,15836,118718,102455,112084,100853" Path="/Values/Attackable">
+    <AttackableType>[NONE]</AttackableType>
+  </ModOp>
+  <ModOp Type="merge" GUID="1654,1733,1059,1736,1655,1058,1734,1735,1060,1737" Path="/Values/Attackable">
+    <AttackableType>[NONE]</AttackableType>
+  </ModOp>
+</ModOps>

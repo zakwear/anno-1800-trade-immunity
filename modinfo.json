@@ -1,0 +1,52 @@
+{
+    "Version": "0.0.1",
+    "ModID": "TradeShipImmunity",
+    "DeprecateIds": [],
+    "LoadAfterIds": [],
+    "IncompatibleIds": null,
+    "ModDependencies": null,
+    "Category": {
+      "English": "Misc",
+      "Chinese": "Misc",
+      "French": "Misc",
+      "German": "Misc",
+      "Italian": "Misc",
+      "Japanese": "Misc",
+      "Korean": "Misc",
+      "Polish": "Misc",
+      "Russian": "Misc",
+      "Spanish": "Misc",
+      "Taiwanese": "Misc"
+    },
+    "ModName": {
+      "Chinese": "Trade Ship Immunity",
+      "English": "Trade Ship Immunity",
+      "French": "Trade Ship Immunity",
+      "German": "Trade Ship Immunity",
+      "Italian": "Trade Ship Immunity",
+      "Japanese": "Trade Ship Immunity",
+      "Korean": "Trade Ship Immunity",
+      "Polish": "Trade Ship Immunity",
+      "Russian": "Trade Ship Immunity",
+      "Spanish": "Trade Ship Immunity",
+      "Taiwanese": "Trade Ship Immunity"
+    },
+    "Description": {
+      "English": "Trade ships are excluded from combat",
+      "German": "Trade ships are excluded from combat",
+      "Chinese": "Trade ships are excluded from combat",
+      "French": "Trade ships are excluded from combat",
+      "Italian": "Trade ships are excluded from combat",
+      "Japanese": "Trade ships are excluded from combat",
+      "Korean": "Trade ships are excluded from combat",
+      "Polish": "Trade ships are excluded from combat",
+      "Russian": "Trade ships are excluded from combat",
+      "Spanish": "Trade ships are excluded from combat",
+      "Taiwanese": "Trade ships are excluded from combat"
+    },
+    "KnownIssues": null,
+    "DLCDependencies": null,
+    "CreatorName": "zakwear",
+    "CreatorContact": "https://github.com/zakwear/anno-1800-trade-immunity",
+    "Image": null
+  }
